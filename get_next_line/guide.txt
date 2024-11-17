@@ -1,0 +1,15 @@
+ressources
+https://suspectedoceano.notion.site/get_next_line-b3fa44d60dc24817bfd6a642183a93a0
+
+// file descriptor //
+https://www.codequoi.com/en/handling-a-file-by-its-descriptor-in-c/
+
+
+
+// variable static //
+
+
+// read() //
+
+
+// open() //
